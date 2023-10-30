@@ -1,1 +1,3 @@
 .ipynb_checkpoints
+my_logs/*
+saved_models/*
