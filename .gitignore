@@ -1,3 +1,6 @@
 .ipynb_checkpoints
 my_logs/*
 saved_models/*
+
+my_mnist_logs/*
+my_mnist_model.h5
