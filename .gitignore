@@ -4,3 +4,4 @@ saved_models/*
 
 my_mnist_logs/*
 my_mnist_model.h5
+my_model_A.h5
