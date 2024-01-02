@@ -5,3 +5,9 @@ saved_models/*
 my_mnist_logs/*
 my_mnist_model.h5
 my_model_A.h5
+
+my_cifar10_logs/*
+my_cifar_model.h5
+my_cifar10_alpha_dropout_model.h5
+my_cifar10_bn_model.h5
+my_cifar10_selu_model.h5
