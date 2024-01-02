@@ -11,3 +11,9 @@ my_cifar_model.h5
 my_cifar10_alpha_dropout_model.h5
 my_cifar10_bn_model.h5
 my_cifar10_selu_model.h5
+
+my_model_with_custom_loss_class.kears
+my_model_with_custom_loss_class.keras
+my_model_with_custom_loss_class.h5
+my_model_with_a_custom_loss.keras
+my_model_with_custom_loss_threshold_2.keras
