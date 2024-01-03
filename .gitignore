@@ -17,3 +17,8 @@ my_model_with_custom_loss_class.keras
 my_model_with_custom_loss_class.h5
 my_model_with_a_custom_loss.keras
 my_model_with_custom_loss_threshold_2.keras
+
+my_model_with_a_custom_metric_v2.keras
+my_model_with_a_custom_metric.keras
+my_model_with_many_custom_parts.h5
+my_model_with_many_custom_parts.keras
