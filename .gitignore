@@ -24,3 +24,5 @@ my_model_with_many_custom_parts.h5
 my_model_with_many_custom_parts.keras
 
 my_model_with_a_custom_layer.keras
+
+my_data.tfrecord
