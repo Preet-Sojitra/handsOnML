@@ -1,6 +1,7 @@
 .ipynb_checkpoints
 my_logs/*
 saved_models/*
+__pycache__
 
 my_mnist_logs/*
 my_mnist_model.h5
@@ -26,3 +27,5 @@ my_model_with_many_custom_parts.keras
 my_model_with_a_custom_layer.keras
 
 my_data.tfrecord
+my_compressed.tfrecord
+my_contacts.tfrecord
