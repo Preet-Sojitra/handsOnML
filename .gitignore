@@ -29,3 +29,5 @@ my_model_with_a_custom_layer.keras
 my_data.tfrecord
 my_compressed.tfrecord
 my_contacts.tfrecord
+
+datasets/fashion_mnist_tfrecords
