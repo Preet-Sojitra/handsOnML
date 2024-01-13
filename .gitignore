@@ -31,3 +31,4 @@ my_compressed.tfrecord
 my_contacts.tfrecord
 
 datasets/fashion_mnist_tfrecords
+datasets/aclImdb
