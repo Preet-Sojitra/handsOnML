@@ -34,3 +34,4 @@ datasets/fashion_mnist_tfrecords
 datasets/aclImdb
 
 char-rnn_model.keras
+char-rnn_stateful_model.keras
