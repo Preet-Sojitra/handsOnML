@@ -32,6 +32,9 @@ my_contacts.tfrecord
 
 datasets/fashion_mnist_tfrecords
 datasets/aclImdb
+datasets/jsb_chorales
 
 char-rnn_model.keras
 char-rnn_stateful_model.keras
+
+bach_model.keras
